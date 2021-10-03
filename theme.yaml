@@ -1,0 +1,21 @@
+# 主题id，唯一
+id: Climb
+# 主题名称
+name: Climb
+author:
+  # 作者名称
+  name: 丁道奇
+  # 作者网址
+  website: https://dingdaoqi.com
+# 主题描述
+description: '高峰只对攀登它而不是仰望它的人来说才有真正意义。'
+# 主题logo地址
+logo: https://dingdaoqi.com/upload/2021/09/photo-e27410a547024f438ace49cb19542103.jpg
+# 主题地址
+website: https://github.com/dingdaoqi/halo-theme-climb
+# 主题github开源地址
+repo: https://github.com/dingdaoqi/halo-theme-climb
+# 版本号
+version: 1.4.12
+# 最低支持的 Halo 版本
+require: 1.3.0
